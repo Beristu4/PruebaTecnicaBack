@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pgm/hpyitjeLLTaTUWPajXcKtwRDwUoAsO5MvcBcJf8wFEwXa6y6RHdeVumj589qwQA3DGedK5+uwlkBBz6P6g==",
+  "dgSpecHash": "lCbcR18+sZ/prxb3cGI1POKJUT/pXMQuUFMnCkYObLGIRZm7g5rknNHRDyAEpg7yyfG70ZiXaMmNzCAURVxxeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\agust\\source\\repos\\PruebaTecnica\\Prueba-Tecnica.Domain\\Prueba-Tecnica.Domain.csproj",
+  "projectFilePath": "C:\\Users\\agust\\Documents\\PruebaTecnica\\Prueba-Tecnica.Domain\\Prueba-Tecnica.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\agust\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\agust\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

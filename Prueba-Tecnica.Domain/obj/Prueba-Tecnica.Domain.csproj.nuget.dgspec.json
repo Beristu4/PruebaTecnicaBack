@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\agust\\source\\repos\\PruebaTecnica\\Prueba-Tecnica.Domain\\Prueba-Tecnica.Domain.csproj": {}
+    "C:\\Users\\agust\\Documents\\PruebaTecnica\\Prueba-Tecnica.Domain\\Prueba-Tecnica.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\agust\\source\\repos\\PruebaTecnica\\Prueba-Tecnica.Domain\\Prueba-Tecnica.Domain.csproj": {
+    "C:\\Users\\agust\\Documents\\PruebaTecnica\\Prueba-Tecnica.Domain\\Prueba-Tecnica.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\agust\\source\\repos\\PruebaTecnica\\Prueba-Tecnica.Domain\\Prueba-Tecnica.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\agust\\Documents\\PruebaTecnica\\Prueba-Tecnica.Domain\\Prueba-Tecnica.Domain.csproj",
         "projectName": "Prueba-Tecnica.Domain",
-        "projectPath": "C:\\Users\\agust\\source\\repos\\PruebaTecnica\\Prueba-Tecnica.Domain\\Prueba-Tecnica.Domain.csproj",
+        "projectPath": "C:\\Users\\agust\\Documents\\PruebaTecnica\\Prueba-Tecnica.Domain\\Prueba-Tecnica.Domain.csproj",
         "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\agust\\source\\repos\\PruebaTecnica\\Prueba-Tecnica.Domain\\obj\\",
+        "outputPath": "C:\\Users\\agust\\Documents\\PruebaTecnica\\Prueba-Tecnica.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
